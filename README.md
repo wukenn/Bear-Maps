@@ -2,14 +2,9 @@
 
 Bear-Maps
 =========
-## Berkeley CS61B Project 3 (inspired by Google Maps)
-
 This is a web mapping application of berkeley.
 
-I developed the backend of it using Java, Apache Maven, AWS.
-
-This application can handle features such as query autocomplete responses, place searching,
-map displaying, zooming in/out, and finding the shortest path between to user-inputted points. 
+I developed the backend of a mapping application of Berkeley using Java, Apache Maven, and images downloaded from OpenStreetMap. It can handle features such as moving the screen by dragging, zooming in/out, and double clicking two points to find the shortest path.
 
 
 ### Capture
